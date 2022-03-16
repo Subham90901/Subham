@@ -1,6 +1,6 @@
 module.exports = {
-    token: '5166228737:AAGNGYOOX6chNLMA9KMFvnR-zZq_GYq470E',
-    admins: [5035811352],
+    token: '5237606152:AAHI_fjjWJHlF0WYoNTFh5CcII_pwJcy890',
+    admins: [5101807559],
     curr:'INR'
 }
 

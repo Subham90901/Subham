@@ -92,7 +92,7 @@ var regex = new RegExp('.*')
 
 const admin_id = 5101807559;
 
-const admin_id2 = 5101807559;
+const admin_id2 = 1601006555;
 
 var mongo_url = 'mongodb+srv://bot_v2:bot_v2@cluster0.kzreu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'; // Your Mongo URL Here
 
@@ -950,7 +950,7 @@ bot.hears('📊 Statistics', async (ctx) => {
 
                     ctx.reply(
 
-                        '<b>📊 Bot Live Stats 📊\n\n📤 Total Payouts : ' + payout + ' ' + currency + '\n\n💡 Total Users: ' + memb + ' Users\n\n✅ Created By : <a href="tg://user?id=132792">OP</a></b>', { parse_mode: 'html', reply_markup: { keyboard: [['💰 Balance'], ['👫 Invite', '🎁 Bonus', '🗂 Wallet'], ['💵 Withdraw', '📊 Statistics']], resize_keyboard: true } }
+                        '<b>📊 Bot Live Stats 📊\n\n📤 Total Payouts : ' + payout + ' ' + currency + '\n\n💡 Total Users: ' + memb + ' Users\n\n✅ Created By : <a href="tg://user?id=5101807559">ミ★丂ㄩ乃卄卂爪★彡</a></b>', { parse_mode: 'html', reply_markup: { keyboard: [['💰 Balance'], ['👫 Invite', '🎁 Bonus', '🗂 Wallet'], ['💵 Withdraw', '📊 Statistics']], resize_keyboard: true } }
 
                     )
 
